@@ -7,15 +7,21 @@ Essa linha adicionei diretamente no site
 
 ##Aprendendo a linguagem **Markdown** no Curso em Vídeo Git e Git Hub
 
----Linha---
-***Linha***
+Linhas
+---
+***
 
 **Negrito**
+
 __Negrito__
+
 *Italico*
+
 _Italico_
+
 ~Riscado~
-# Título Nível 1
+
+# Título Nível 1 🅰️
 ## Título Nível 2 ... e assim por diante
 _*Negrito Itálico*_
 
@@ -31,8 +37,8 @@ Lista demarcada:
 - Teste
 
 Lista de Tarefas
-- [x] Criar a página principal
-- [] Criar a página do cliente
+- [ ] Criar a página principal
+- [x] Criar a página do cliente
 
 Imagem
 
@@ -55,4 +61,10 @@ num = int(input('Digite um valor:')
 if num %2==0:
     print(f'O valor {num} é PAR'
 ```
+
+Emogi (dois pontos e digita a) 🥇
+github.com/ikatyang > Repositories > emoji > emoji-cheat-sheet
+tastar no título: emojipedia.org > Categoria > escolhe um emoji > Copy and paste this emoji
+
+
 
