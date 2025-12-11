@@ -7,8 +7,9 @@ Essa linha adicionei diretamente no site
 
 ##Aprendendo a linguagem **Markdown** no Curso em Vídeo Git e Git Hub
 
----Linha
-***Linha
+---Linha---
+***Linha***
+
 **Negrito**
 __Negrito__
 *Italico*
@@ -46,4 +47,12 @@ Num | Nome | Nota
 1 | Marco | 9,5
 2 | Luz | 10
 
+Comando `comando.comando`
+
+Trecho de código
+```
+num = int(input('Digite um valor:')
+if num %2==0:
+    print(f'O valor {num} é PAR'
+```
 
