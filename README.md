@@ -6,8 +6,8 @@ Repositório criado durante a aula de Git e Git Hub
 Essa linha adicionei diretamente no site
 
 ##Aprendendo a linguagem **Markdown** no Curso em Vídeo Git e Git Hub
---- Linha
-*** Linha
+---Linha
+***Linha
 **Negrito**
 __Negrito__
 *Italico*
@@ -35,3 +35,7 @@ Lista de Tarefas
 Imagem
 
 <img width="1812" height="955" alt="ferrariF175" src="https://github.com/user-attachments/assets/5cea538d-8b8c-4410-ad06-18700fe35274" />
+
+Links
+[Acesse meu GitHub](https://github.com/marcoantoniodaluz)
+
