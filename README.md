@@ -6,6 +6,7 @@ Repositório criado durante a aula de Git e Git Hub
 Essa linha adicionei diretamente no site
 
 ##Aprendendo a linguagem **Markdown** no Curso em Vídeo Git e Git Hub
+
 ---Linha
 ***Linha
 **Negrito**
@@ -38,4 +39,11 @@ Imagem
 
 Links
 [Acesse meu GitHub](https://github.com/marcoantoniodaluz)
+
+Tabelas
+Num | Nome | Nota
+---|---|---
+1 | Marco | 9,5
+2 | Luz | 10
+
 
